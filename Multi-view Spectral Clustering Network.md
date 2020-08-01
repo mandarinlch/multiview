@@ -5,6 +5,6 @@
 - 随后是一个正交层，以将节点特征映射到正交空间(避免特征聚合到同一点)，得到y
 - 最后将特征(y)concat起来，使用k-means得到最终结果
 
-![image][ima1]
+![image](https://github.com/mandarinlch/multiview/blob/master/image/20200801210434%20.png)
 
 
